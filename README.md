@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning *data analytics*
   
-I like to write code related to *data science, computational linguistics and machine learning*. Some of the projects I worked on:
+I like to write code related to *data science*, *computational linguistics* and *machine learning*. Some of the projects I worked on:
 
 ## Word Pair Classifier
 
