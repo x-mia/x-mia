@@ -28,6 +28,12 @@ A script for compiling pivot Estonian-Slovak dictionary using English-Estonian a
 
 A script for extracting the target words for a source word from cross-lingual word embedding space by either limiting the cosine similarity or selecting k nearest neighbours. 
 
+## Naïve Bayes Sentiment Analysis
+
+[Repository Link](https://github.com/x-mia/amazon_review_analysis/)
+
+A simple classification Naïve Bayes model which analyses the Amazon Alexa review dataset.
+
 ---
 
 - 📫 How to reach me: michaeladenisova@gmail.com
